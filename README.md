@@ -3,17 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onni3000&label=Profile%20views&color=0e75b6&style=flat" alt="onni3000" /> </p>
 
-- 🔭 I’m currently working https:https://github.com/Onni3000/DreamOS//github.com/Onni3000/DreamOSon [DreamOS](https://github.com/Onni3000/DreamOS)
-
+- 🔭 I’m currently working on birthday wishes program
 - 🌱 I’m currently learning **programming**
 
-- 👯 I’m looking to collaborate on [DreamOS](https://github.com/Onni3000/DreamOS)
+- 👯 I’m looking to collaborate on nothing as of right now
 
-- 🤝 I’m looking for help with [DreamOS](https://github.com/Onni3000/DreamOS)
+- 🤝 I’m looking for help with something?
 
 - 👨‍💻 All of my projects are available at [https://github.com/Onni3000?tab=projects](https://github.com/Onni3000?tab=projects)
 
-- 📝 I regularly write articles on [https://onny3000.medium.com/](https://onny3000.medium.com/)
+- 📝 I unregularly write articles on [https://onny3000.medium.com/](https://onny3000.medium.com/)
 
 - 💬 Ask me about **Tech Stuff**
 
