@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **Onni#8364 on Discord**
 
-- 📄 Know about my experiences [*coming soon*](*coming soon*)
+- 📄 Know about my experiences [*coming soon*]
 
 - ⚡ Fun fact **I Like Cereal**
 
