@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Well lets not talk about that](Well lets not talk about that)
 
-- 📝 I not regularly write articles on [https://onny3000.medium.com/](https://onny3000.medium.com/)
+- 📝 I not regularly write articles on [https://onny3000.medium.com/](https://onny3000.medium.com/) and [https://dev.to/onni3000/](https://dev.to/onni3000/)
 
 - 💬 Ask me about **anything**
 
@@ -29,6 +29,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[Slack bot guide](https://dev.to/onni3000/how-to-make-a-slackbot-2022-guide-ln1)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
