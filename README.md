@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/onni3000_" target="blank"><img src="https://img.shields.io/twitter/follow/onni3000_?logo=twitter&style=for-the-badge" alt="onni3000_" /></a> </p>
 
-- 🔭 I’m currently working on **accounting app**
+- 🔭 I’m currently working on **nothing at the moment**
 
-- 🌱 I’m currently learning **node.js, react and slack bot development**
+- 🌱 I’m currently learning **node.js and web development**
 
 - 👯 I’m looking to collaborate on **anything**
 
 - 🤝 I’m looking for help with **anything**
 
-- 👨‍💻 All of my projects are available at [Well lets not talk about that](Well lets not talk about that)
+- 👨‍💻 All of my projects are available at (here on github, but as of now, its empty)
 
-- 📝 I not regularly write articles on [https://onny3000.medium.com/](https://onny3000.medium.com/) and [https://dev.to/onni3000/](https://dev.to/onni3000/)
+- 📝 I unregularly write articles on [https://onny3000.medium.com/](https://onny3000.medium.com/) and [https://dev.to/onni3000/](https://dev.to/onni3000/)
 
 - 💬 Ask me about **anything**
 
