@@ -11,19 +11,9 @@
 
 - 🌱 I’m currently learning **node.js and web development**
 
-- 👯 I’m looking to collaborate on **anything**
-
-- 🤝 I’m looking for help with **anything**
-
-- 👨‍💻 All of my projects are available at (here on github, but as of now, its empty)
-
 - 📝 I unregularly write articles on [https://onny3000.medium.com/](https://onny3000.medium.com/) and [https://dev.to/onni3000/](https://dev.to/onni3000/)
 
-- 💬 Ask me about **anything**
-
 - 📫 How to reach me **Onni#8364 on Discord**
-
-- 📄 Know about my experiences [*coming soon*]
 
 - ⚡ Fun fact **I Like Cereal**
 
