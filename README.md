@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/onni3000_" target="blank"><img src="https://img.shields.io/twitter/follow/onni3000_?logo=twitter&style=for-the-badge" alt="onni3000_" /></a> </p>
 
-- 🔭 I’m currently working on **nothing at the moment**
+- 📝 I very irregularly write articles on [https://onny3000.medium.com/](https://onny3000.medium.com/) and [https://dev.to/onni3000/](https://dev.to/onni3000/)
 
-- 🌱 I’m currently learning **node.js and web development**
-
-- 📝 I unregularly write articles on [https://onny3000.medium.com/](https://onny3000.medium.com/) and [https://dev.to/onni3000/](https://dev.to/onni3000/)
-
-- 📫 How to reach me **Onni#8364 on Discord**
+- 📫 How to reach me **onni.a on Discord**
 
 - ⚡ Fun fact **I Like Cereal**
 
